@@ -11,12 +11,12 @@ from pyrogram import Client, filters
 from pyrogram.types import Message
 
 
-ALT = f"""❖ 𝐏𝐘 𝐀𝐋𝐓𝐑𝐎𝐍 ❖
+ALT = f"""❖ ᕼᗩᖇꇙᕼᑌˣᴰ ❖
 
 ➠ **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.11.1`
 ➠ **ᴘʏʀᴏ ᴠᴇʀsɪᴏɴ** : `1.4.16`
 ➠ **xꜱᴘᴀᴍ ᴠᴇʀsɪᴏɴ**  : `3.3`
-➠ **ᴜᴘᴅᴀᴛᴇꜱ** : @TheAltron\n"""
+➠ **ᴜᴘᴅᴀᴛᴇꜱ** : @Wrostdemom\n"""
 
 
 @Client.on_message(filters.user(SUDO_USERS) & filters.command(["ping"], ["/", ".", "!"]))
