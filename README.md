@@ -1,11 +1,11 @@
-<p align="center"><a href="https://t.me/TheAltron"><img src="https://te.legra.ph/file/7abe179ff252aaabbf2a5.jpg"></a></p>
+<p align="center"><a href="https://t.me/Harshu_XD1"><img src="https://te.legra.ph/file/ae14f293ef4a9352c5248.jpg"></a></p>
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
 # Aʟᴛʀᴏɴ 🖤
 ᴛʜɪs ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇ sᴘᴀᴍ ᴜsᴇʀʙᴏᴛ's ʀᴇᴘᴏ, 
 
-ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤 𝐀𝐋𝐓𝐑𝐎𝐍 🖤](https://t.me/TheAltron)
+ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤 𝐀𝐋𝐓𝐑𝐎𝐍 🖤](https://t.me/wrostdemon)
 
 ━━━━━━━━━━━━━━━━━━━━━━
 # Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ​ 🚀
