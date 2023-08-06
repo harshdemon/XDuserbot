@@ -50,7 +50,7 @@
             "description": "pyrogram v1.4 string session here",
             "required": false
         },
-        "ALIVE_PIC": {https://te.legra.ph/file/ae14f293ef4a9352c5248.jpg
+        "ALIVE_PIC": {
             "required": false
         },
         "SUDO_USERS": {
