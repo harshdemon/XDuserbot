@@ -4,7 +4,7 @@
     "keywords": [
       "telegram",
       "bot",
-      "Altron"
+      "Harshu"
     ],
       "buildpacks": [{
       "url": "heroku/python"
